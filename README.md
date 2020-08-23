@@ -20,6 +20,8 @@ done.
 # Technologies used
 HTML & CSS (BOOTSTRAP) 
 SCRIPT.JS.
+# Link to site: 
+https://ochieng-stack.github.io/Akan-Names/ 
 
 # CONTACT INFOMATION
 location:cbd
