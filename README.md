@@ -9,4 +9,15 @@ Akan Names is derived from ghana and this website help pepole get there names an
 especialy the name of the day in traditional.
 
 # Setup instruction
+ cancel button to errese any error made while typing 
+the date or month.
+
+# BDD
+Defined before the development starts and are used as
+acceptance criteria.They are part of the definition of 
+done.
+
+# Technologies used
+HTML & CSS (BOOTSTRAP) 
+SCRIPT.JS
 
